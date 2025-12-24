@@ -1,0 +1,62 @@
+services:
+  db:
+    image: pgvector/pgvector:pg15
+    container_name: postgres
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_DB: ${POSTGRES_DB}
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+
+
+  backend:
+    build: ./backend
+    container_name: fastapi-backend
+    environment:
+      DATABASE_URL: ${DATABASE_URL}
+      POSTGRES_HOST: ${POSTGRES_HOST}
+      POSTGRES_PORT: ${POSTGRES_PORT}
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_DB: ${POSTGRES_DB}
+      SECRET_KEY: ${SECRET_KEY}
+      EMBEDDING_MODEL: ${EMBEDDING_MODEL}
+      EMBEDDING_DiMENSION: ${EMBEDDING_DIMENSION}
+      LLM_API_KEY: ${LLM_API_KEY}
+      API_PREFIX: ${API_PREFIX}
+      DEBUG: ${DEBUG}
+      LLM_PROVIDER: ${LLM_PROVIDER}
+      GOOGLE_API_KEY: ${LLM_API_KEY}
+    depends_on:
+      - db
+    ports:
+      - "8000:8000"
+
+  frontend:
+    build: ./frontend
+    container_name: frontend
+    ports:
+      - "8081:80"
+    depends_on:
+      - backend
+
+  pgadmin:
+    image: dpage/pgadmin4
+    container_name: pgadmin
+    environment:
+      PGADMIN_DEFAULT_EMAIL: ${PGADMIN_EMAIL}
+      PGADMIN_DEFAULT_PASSWORD: ${PGADMIN_PASSWORD}
+    ports:
+      - "5050:80"
+    depends_on:
+      - db
+    volumes:
+      - pgadmin_data:/var/lib/pgadmin
+
+volumes:
+  pgdata:
+  pgadmin_data:
