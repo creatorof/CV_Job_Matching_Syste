@@ -1,5 +1,6 @@
 # CV-Job Matching System with RAG and Recommendation Engine
 An intelligent CV parsing and job recommendation system powered by Large Language Models (LLMs), vector databases, and semantic search.
+
 Documentation Link:
 ## Get Started on local computer
 
@@ -34,6 +35,7 @@ docker compose up --build
 ```bash
 docker compose down
 ```
+
 
 
 
