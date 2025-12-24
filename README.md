@@ -31,10 +31,23 @@ POSTGRES_PASSWORD=postgres-password-placeholder
 docker compose up --build
 ```
 
-4. **Exit the application**
+4. **Run application**
+For backend:
+```bash
+localhost:8000
+localhost:8000/docs for api
+```
+
+For pgadmin:
+```bash
+localhost:5050
+```
+
+5. **Exit the application**
 ```bash
 docker compose down
 ```
+
 
 
 
