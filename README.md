@@ -21,7 +21,7 @@ PGADMIN_PASSWORD=pgadmin-password-placeholder
 
 SECRET_KEY = secret-key-placeholder
 LLM_API_KEY=llm-api-key-placeholder
-
+DATABASE_URL=database-url-placeholder
 POSTGRES_USER=postgres-user-placeholder
 POSTGRES_PASSWORD=postgres-password-placeholder
 ```
@@ -47,6 +47,7 @@ localhost:5050
 ```bash
 docker compose down
 ```
+
 
 
 
