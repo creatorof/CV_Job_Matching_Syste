@@ -1,0 +1,656 @@
+[
+    {
+        "user_id": 1,
+        "name": "FIRST LAST",
+        "email": "sampleresume@gmail.com",
+        "phone": "(480) 123-5689",
+        "location": {
+            "city": "San Francisco",
+            "countryCode": null,
+            "region": "California"
+        },
+        "summary": "An analytical and results-driven software engineer with experience in application development, scripting and coding, automation, web application design, product testing and deployment, UI testing, and requirements gathering. Proven aptitude for implementing innovative solutions to streamline and automate processes, enhance efficiency, improve customer satisfaction, and achieve financial savings.",
+        "work": [
+            {
+                "company": "WALMART, INC.",
+                "position": "Programmer Analyst, Call Center Engineering Team",
+                "startDate": "2011",
+                "endDate": "2016",
+                "summary": null,
+                "highlights": [
+                    "Architected financial services hotline app for 8 countries in Central and South America.",
+                    "Implemented benefits hotline app rollout every year for US and Canada serving 1.4 million employees.",
+                    "Optimized manual application tuning process with Java to fetch and process data, making process 20x faster.",
+                    "Connected user-facing web applications with SQL DBs using Spring REST web services.",
+                    "Integrated agent monitoring system, improving call center efficiency by 30%. [Employee of the Month - Dec 2012]"
+                ]
+            }
+        ],
+        "education": [
+            {
+                "institution": "UNIVERSITY OF ARIZONA",
+                "degree": "M.S.",
+                "field": "Computer Science",
+                "startDate": null,
+                "endDate": "2012",
+                "gpa": null
+            },
+            {
+                "institution": "UNIVERSITY OF ARIZONA",
+                "degree": "B.S.B.A.",
+                "field": "Management Information Systems",
+                "startDate": null,
+                "endDate": "2011",
+                "gpa": null
+            }
+        ],
+        "skills": [
+            "ReactJS",
+            "AngularJS 1.x",
+            "ExpressJS",
+            "NodeJS",
+            "jQuery",
+            "HTML/CSS",
+            "React Native",
+            "ExponentJS",
+            "Spring",
+            "Maven",
+            "MongoDB",
+            "SQL",
+            "Docker",
+            "Tomcat",
+            "Grunt",
+            "Heroku",
+            "CircleCI",
+            "Socket.io",
+            "MySQL",
+            "YouTube API",
+            "PassportJS",
+            "Google Maps API",
+            "Accuweather API"
+        ],
+        "languages": [],
+        "certifications": [],
+        "category": "Software Engineering",
+        "id": 1
+    },
+    {
+        "user_id": 1,
+        "name": "Muhammad Ghulam Jillani",
+        "email": "m.g.jillani123@gmail.com",
+        "phone": "+92-321-1174167",
+        "location": {
+            "city": "New York",
+            "countryCode": "US",
+            "region": "United States"
+        },
+        "summary": "Senior Data Scientist and Machine Learning Engineer specializing in Generative AI, LLMs, and Autonomous AI Systems, with a proven record of transforming SaaS and PaaS platforms through innovative enterprise AI and agentic AI solutions. Expertise in optimizing workflows, streamlining data pipelines, and building scalable AI architectures to solve complex business challenges. Recognized as a 24x LinkedIn Top Voice, Top 100 Global Kaggle Master, and KaggleX BIPOC Mentor, contributing to the NVIDIA Developer Program, Google Developer Group, and AWS AI Community. Demonstrated leadership in AI-driven product innovation, LLMOps strategies, and multimodal AI, delivering impactful results with cutting-edge technologies across industries.",
+        "work": [
+            {
+                "company": "PURELOGICS",
+                "position": "Senior Data Scientist & Machine Learning Software Engineer (Generative AI)",
+                "startDate": "12/2024",
+                "endDate": "Currently",
+                "summary": null,
+                "highlights": [
+                    "Led AI-Driven MVPs & Enterprise Deployments: Spearheaded high-impact MVP projects, including an Enterprise-Grade RAG Pipeline for BI, a Health Guard AI Pipeline for Remote Patient Monitoring, a GPT-4o-Based Conversational AI Chatbot, and an Agentic AI System for Legal & Financial Advisory, leveraging Generative AI, RAG, and Autonomous AI Agents.",
+                    "Scalable AI & Cloud Solutions: Designed, deployed, and optimized end-to-end AI/ML pipelines on AWS (SageMaker, Bedrock, Lambda) and GCP (Vertex AI, BigQuery, Cloud Run), ensuring high availability, cost efficiency, and real-time insights.",
+                    "Advanced Multi-Agentic AI Architectures: Engineered multi-agent systems with LangChain, LangGraph, PhiData, Pinecone, and Graph DBs to enhance automation, decision-making, and autonomous AI-driven workflows across domains.",
+                    "Leadership & Strategic Execution: Led cross-functional teams, aligning AI strategies with business objectives, optimizing LLMOps & MLOps pipelines, and ensuring seamless model lifecycle management from development to production.",
+                    "Mentorship & Innovation: Mentored AI/ML teams, fostering expertise in LLM fine-tuning, Retrieval-Augmented Generation (RAG), and AI-powered automation, while driving continuous innovation in GenAI applications.",
+                    "Key Achievements: Successfully delivered scalable, enterprise-grade AI solutions, exceeding performance benchmarks, accelerating deployment cycles, and enhancing efficiency, automation, and business intelligence."
+                ]
+            },
+            {
+                "company": "NVIDIA",
+                "position": "Senior Data Scientist Machine Learning & Gen AI Engineer (Volunteer)",
+                "startDate": "08/2024",
+                "endDate": "Currently",
+                "summary": null,
+                "highlights": [
+                    "NVIDIA & Z by HP Developer Programs: Active member contributing to GPU-optimized applications and testing enterprise-level Generative AI solutions on NVIDIA AI Studio and Z by HP platforms.",
+                    "LLM Contributions: Developed and tested open-source and enterprise-level LLMs, including vLLMs, for Generative AI domains.",
+                    "Specialized SDK Integration: Leveraged cutting-edge NVIDIA tools and SDKs to build and optimize AI solutions.",
+                    "Collaborative Expertise: Worked closely with NVIDIA and Z by HP teams to validate and enhance AI tools and frameworks.",
+                    "Community Contributions: Actively contributed to open-source LLM projects, driving innovation in Generative AI and large-scale deployments."
+                ]
+            },
+            {
+                "company": "BLOCBELT",
+                "position": "Senior Data Scientist & Machine Learning Engineer",
+                "startDate": "12/2022",
+                "endDate": "12/2024",
+                "summary": null,
+                "highlights": [
+                    "Strategic AI Leadership & Team Management: Led the development of AI-driven SaaS and PaaS solutions, managing a team of three, with a focus on Big Data, Data Analysis, and AI Engineering. This initiative enhanced operational efficiency, resulting in $2M in cost savings for clients.",
+                    "Sales Forecasting & Market Analysis: Improved sales forecasting accuracy by 80-90% through data analysis across 120+ market entities, leading to actionable growth strategies and enhanced sales workflows.",
+                    "E-Commerce Platform Innovation & Sales Growth: Successfully launched a client-focused personalized fashion e-commerce platform featuring an advanced recommendation engine. This initiative led to an 80% increase in sales and a 200% surge in online orders, surpassing project goals by three months ahead of schedule.",
+                    "Operational Excellence & Cost Reduction: Streamlined data processing and optimized workflows using OpenCV, leading to significant cost savings and improved efficiency.",
+                    "Data-Driven Strategy & Revenue Growth: Led the development of statistical models and predictive analytics, resulting in an 18% increase in company revenue. Enhanced data visibility by 45% with strategic dashboards, fostering cross-functional collaboration.",
+                    "AI Integration & Enhanced Digital Sales Experience: Integrated AI into SaaS and PaaS offerings, focusing on distributed systems and conducting over 25 A/B tests to refine the e-commerce experience, driving technological advancements."
+                ]
+            },
+            {
+                "company": "GOOGLE-KAGGLE",
+                "position": "AI Data Scientist Kaggle Master Mentor (Part-Time, 20 hours/week)",
+                "startDate": "12/2022",
+                "endDate": "11/2024",
+                "summary": null,
+                "highlights": [
+                    "Championed mentorship initiatives through the Kaggle-X BIPOC Mentorship Program, dedicating 20 hours weekly to guiding aspiring data scientists in technical skill development and community contributions.",
+                    "Secured a position among the Top 100 Kaggle contributors globally, recognized as the first Pakistani mentor in the program.",
+                    "Led a team of four mentees, enhancing their skills in data science, machine learning, and real-world problem-solving.",
+                    "Drove innovation by collaborating on high-impact AI projects and actively contributing to the global data science community."
+                ]
+            },
+            {
+                "company": "Crypto-Express",
+                "position": "Data Scientist",
+                "startDate": "01/2022",
+                "endDate": "12/2022",
+                "summary": null,
+                "highlights": [
+                    "Developed an Anti-spoofing Face-App, enhancing digital identity security and reducing identity fraud by 70%.",
+                    "Applied AI and ML techniques to solve industry-critical issues, improving efficiency by 25% and reducing operational costs by 15%.",
+                    "Engineered predictive models and provided actionable insights, leading to a 20% revenue increase through data-driven decision-making.",
+                    "Advanced expertise in EDA, Machine Learning, and Deep Learning, saving over 250+ hours of manual analysis annually.",
+                    "Successfully deployed AI/ML projects remotely, adapting to dynamic conditions and gaining significant experience in the AI/ML field."
+                ]
+            },
+            {
+                "company": "Pakistan Freelancing Training Center",
+                "position": "Artificial Intelligence Engineer",
+                "startDate": "01/2021",
+                "endDate": "12/2021",
+                "summary": null,
+                "highlights": [
+                    "Led AI and Data Science training sessions, preparing students to tackle real-world challenges.",
+                    "Designed and deployed models using TensorFlow and Keras, improving system efficiency and accuracy.",
+                    "Bridged the gap between academic learning and industry skills, driving practical applications of AI technologies.",
+                    "Automated repetitive data tasks using Python, significantly reducing manual labor and error rates.",
+                    "Engaged in ongoing AI research to apply cutting-edge methodologies to projects."
+                ]
+            }
+        ],
+        "education": [
+            {
+                "institution": "Institute of Management Sciences",
+                "degree": "Bachelor",
+                "field": "Computer Science (Major: Artificial Intelligence and Computer Science)",
+                "startDate": null,
+                "endDate": null,
+                "gpa": null
+            }
+        ],
+        "skills": [
+            "Python",
+            "Scikit-Learn",
+            "TensorFlow",
+            "Keras",
+            "PyTorch",
+            "NLTK",
+            "Hugging Face Transformers",
+            "OpenCV",
+            "FastAPI",
+            "Flask",
+            "Streamlit",
+            "Pandas",
+            "NumPy",
+            "Matplotlib",
+            "Plotly",
+            "Seaborn",
+            "PySpark",
+            "OpenAI API",
+            "REST APIs",
+            "GraphQL",
+            "Neo4j",
+            "Docker",
+            "GitHub Actions",
+            "CI/CD Pipelines",
+            "SQL",
+            "NoSQL",
+            "Vector Databases (Pinecone, Faiss, Chroma DB)",
+            "Machine Learning",
+            "Deep Learning",
+            "Generative AI",
+            "LLMs (GPT, Gemini, LLaMA, Falcon,DeepSeek)",
+            "Natural Language Processing (NLP)",
+            "Time Series Analysis",
+            "Model Deployment",
+            "Prompt Engineering",
+            "LangChain",
+            "RAG (Retrieval-Augmented Generation)",
+            "LlamaIndex",
+            "LangGraph",
+            "PhiData",
+            "LangServer",
+            "AutoGen",
+            "LangSmith",
+            "AutoML",
+            "AI-Driven Process Automation",
+            "Predictive Modeling",
+            "Statistical Analysis",
+            "Big Data Technologies",
+            "Data Visualization",
+            "AWS (SageMaker, Lambda, Bedrock, EC2)",
+            "Azure (Azure ML, Azure AI, App Services)",
+            "GCP (Vertex AI, Cloud Functions)",
+            "Heroku",
+            "MLOps",
+            "LLMOps",
+            "AIOps",
+            "Cloud Machine Learning",
+            "MLflow",
+            "Orchestration Frameworks",
+            "Agile Methodologies",
+            "Microservices Architecture",
+            "Business Analysis",
+            "Product Management",
+            "Team Leadership",
+            "Stakeholder Management",
+            "Business Intelligence",
+            "technical writing",
+            "effective communication",
+            "stakeholder engagement",
+            "team collaboration"
+        ],
+        "languages": [
+            "English",
+            "Urdu"
+        ],
+        "certifications": [
+            "IBM Machine Learning Specialization Professional Certificate, IBM.",
+            "Deep Learning Specialization, DeepLearning.ai.",
+            "Microsoft Azure AI Fundamentals AI-900 Exam Prep Specialization, Microsoft.",
+            "Prompt Engineering for ChatGPT, Vanderbilt University.",
+            "Machine Learning Engineering for Production (MLOps), DeepLearning.ai.",
+            "AI Product Management, Duke University.",
+            "Generative Adversarial Networks (GANs) Specialization, DeepLearning.ai.",
+            "IBM Generative AI Product Managers, IBM.",
+            "Preparing for Google Cloud Certification: Machine Learning Engineer, Google.",
+            "IBM AI Product Manager, IBM.",
+            "AWS Cloud Solutions Architect Professional Certificate, Amazon Web Services.",
+            "Google Project Management: Professional Certificate, Google.",
+            "Practical Data Science on the AWS Cloud Specialization, DeepLearning.ai.",
+            "Machine Learning Specialization, DeepLearning.AI.",
+            "MLOps | Machine Learning Operations Specialization, Duke University.",
+            "Google Business Intelligence Professional Certificate, Google.",
+            "Advanced Machine Learning on Google Cloud Specialization, Google Cloud.",
+            "Large Language Model Operations (LLMOps), Duke University.",
+            "Google Advanced Data Analytics Professional Certificate, Google."
+        ],
+        "category": "Data Science & AI",
+        "id": 2
+    },
+    {
+        "user_id": 1,
+        "name": "KEITH VINCENT Y. BURCA",
+        "email": "burcakeithvincent@gmail.com",
+        "phone": "+63 956 500 7303",
+        "location": {
+            "city": "Cebu",
+            "countryCode": null,
+            "region": null
+        },
+        "summary": "I am passionate about harnessing the power of data to drive decisions that can shape the world, and have a profound impact on the lives of many. My strengths include strong analytical abilities, critical thinking skills, and excellent attention to detail. I am proficient in statistical analysis, machine learning algorithms, and data storytelling. I am an effective communicator and collaborator, highly trainable, and possess outstanding interpersonal skills.",
+        "work": [
+            {
+                "company": "QUALFON",
+                "position": "IT Application Analyst",
+                "startDate": "2023-01",
+                "endDate": "Present",
+                "summary": null,
+                "highlights": [
+                    "In-charge of managing and troubleshooting 30% of all the ChatBot flows and processes",
+                    "Worked hand and hand with multinational professionals in testing APIs, data and information flows, and other services to resolve issues and improve processes"
+                ]
+            },
+            {
+                "company": "ACCENTURE INC.",
+                "position": "Application Development Associate",
+                "startDate": "2021-04",
+                "endDate": "2023-01",
+                "summary": null,
+                "highlights": [
+                    "Automated 25% of all the Inbound ETL processes for a web application",
+                    "Developed and tested data engineering solutions for the automation of ETL and reporting processes"
+                ]
+            },
+            {
+                "company": "GT COSMETICS MANUFACTURING INC.",
+                "position": "Pollution Control / Research, Design and Development Officer",
+                "startDate": "2018-11",
+                "endDate": "2021-04",
+                "summary": null,
+                "highlights": [
+                    "Brought the company to 100% DENR Compliance from 20%",
+                    "Created 5 process manuals, managed and designed water treatment and waste control projects"
+                ]
+            }
+        ],
+        "education": [
+            {
+                "institution": "University of San Carlos",
+                "degree": "BS Chemical Engineering",
+                "field": null,
+                "startDate": "2012",
+                "endDate": "2017",
+                "gpa": null
+            },
+            {
+                "institution": "Cebu City National Science High School",
+                "degree": "Secondary Education",
+                "field": null,
+                "startDate": "2008",
+                "endDate": "2012",
+                "gpa": null
+            },
+            {
+                "institution": "Guadalupe Elementary School",
+                "degree": "Primary Education",
+                "field": null,
+                "startDate": "2002",
+                "endDate": "2008",
+                "gpa": null
+            }
+        ],
+        "skills": [
+            "Python",
+            "SQL",
+            "ETL",
+            "R",
+            "Statistics",
+            "Spreadsheets (Microsoft Excel, Google Sheets)",
+            "Data Visualization and Storytelling (Tableau, Power BI)",
+            "Machine Learning",
+            "SSIS",
+            "SSRS",
+            "API Testing",
+            "Postman",
+            "Project Management",
+            "Lucidchart",
+            "Microsoft Azure",
+            "Microsoft Office",
+            "JIRA",
+            "Agile Methodologies",
+            "HTML",
+            "CSS",
+            "Marketing and Sales"
+        ],
+        "languages": [],
+        "certifications": [
+            "Google Advanced Data Analytics",
+            "Google Data Analytics",
+            "Google Project Management",
+            "Getting Started with Python",
+            "Certified Six Sigma Green Belter",
+            "Become a Data Analyst",
+            "Azure Developer Associate",
+            "Azure Database Administrator Assoc.",
+            "Licensed Chemical Engineer"
+        ],
+        "category": "Data Science & AI",
+        "id": 7
+    },
+    {
+        "user_id": 1,
+        "name": "LORETTA DANIELSON",
+        "email": "lorettadanielson@gmail.com",
+        "phone": "312-555-5555",
+        "location": {
+            "city": "Chicago",
+            "countryCode": null,
+            "region": null
+        },
+        "summary": "Strategic and innovative HR Executive who translates business vision into HR initiatives that improve performance, profitability,\ngrowth, and employee engagement. Empowering leader who supports companies and top executives with a unique perspective\nand appreciation that human capital is every organization’s greatest asset. Genuine influencer who thrives on tough challenges\nand translates visions and strategies into actionable, value-added goals.",
+        "work": [
+            {
+                "company": "DONOVAN CORPORATION",
+                "position": "Director – US & International Human Resources",
+                "startDate": "2008",
+                "endDate": "Present",
+                "summary": "Recruited to direct HR for US and newly launched international operations. Partner with other directors and senior executives to\ndevelop new business initiatives, foster employee engagement, and mobilize talent. Manage $135K budget.",
+                "highlights": [
+                    "HR Organization Leadership: Most senior HR executive in Donovan, directing 4 HR professionals in staffing,\nrecruitment, benefits, executive compensation, training, leadership development, succession planning, HRIS, and\nregulatory compliance. Heavy emphasis on leading Donovan through rapid HR change and transformation programs.",
+                    "International HR Launch: Created HR organization – recruitment, staffing, onboarding, training – for both\nexpatriates and local national hires in Brazil, Mexico, and Spain.",
+                    "Organization Transformation: Enabled operational change essential to a $5M reduction in HR costs. Helped to\nfacilitate redesign of core business operations, including 2 site closures and 1 fast-track expansion.",
+                    "Post-Acquisition HR Integration: Streamlined integration of VueX Wireless Systems, Donovan’s largest-ever\nacquisition at the time. Ensured strategic alignment of HR with new business objectives and minimized business\ninterruptions through execution of workforce integration plans.",
+                    "M&A Due Diligence: Contributed to senior-level M&A decisions, supporting initial analysis through due diligence and\nsubsequent integration. Enabled business growth by assessing HR cultural compatibility and talent impacts."
+                ]
+            },
+            {
+                "company": "UNDERWRITERS LABORATORIES",
+                "position": "Director – Human Resources",
+                "startDate": "2005",
+                "endDate": "2007",
+                "summary": "Transformed HR into a true strategic business partner in the aftermath of an end-to-end HR restructuring. Championed HR\nvision while forging sustainable HR infrastructure, systems, processes, and practices. Oversaw budget and a staff of 2.",
+                "highlights": [
+                    "HRIS Technology: Drove transition from outdated HR systems into a fully integrated HRIS platform from Oracle.\nInstantly improved analysis, reporting, and planning capabilities while streamlining daily HR functions.",
+                    "Employee Relations: Introduced proactive employee relations and communications programs to resolve previous\nlabor and management issues and restore the credibility and employee-centric focus of the HR organization.",
+                    "Career Coaching: Rolled out the company’s first HR shared services center for delivery of internal coaching services.",
+                    "Workforce Expansion: Ramped up California-based engineering group of 50 new employees in just 3 months,"
+                ]
+            },
+            {
+                "company": "GRAYSON INDUSTRIES",
+                "position": "Manager – Human Resources",
+                "startDate": "2003",
+                "endDate": "2005",
+                "summary": "Joined new management team tasked with revitalizing Grayson following years of instability, internal change, restructuring, and\nabsent leadership. Supported corporate repositioning, guiding recruitment of 100 technical, professional, and management staff\nfor US HQ.",
+                "highlights": [
+                    "Workforce Integration: Integrated 30+ staff in the aftermath of 2 acquisitions, steering flawless workforce\nassimilation into core business operations. Contributed to profitable turnaround with >$1M in first-year savings.",
+                    "HR Operations: Consolidated HR functions previously managed by several different departments into a single\nconsolidated organization to manage all generalist affairs. Trained and supervised 2 HR assistants."
+                ]
+            },
+            {
+                "company": "STANNARD E-COMMERCE, LTD.",
+                "position": "HR Consultant",
+                "startDate": "2001",
+                "endDate": "2002",
+                "summary": "Consulted with major online retailers to help them build both on-site and remote workforces. Created staffing models and\nrecruiting strategies to meet each client’s unique requirements.",
+                "highlights": []
+            },
+            {
+                "company": "SCANLON INVESTMENT CORPORATION",
+                "position": "Staffing & Recruitment Associate",
+                "startDate": "2000",
+                "endDate": "2001",
+                "summary": "Hired to manage recruitment and staffing for start-up venture. Helped to build company from an empty suite of offices into a full-\nscale operation with 35 employees (29 staff and 6 management/executive personnel). Created and implemented hiring policies,\nprocedures, systems, and technologies to support company’s long-term growth and expansion.",
+                "highlights": []
+            },
+            {
+                "company": "DRG FOOD SERVICE, INC.",
+                "position": "Human Resources Associate – Staffing",
+                "startDate": "1998",
+                "endDate": "2000",
+                "summary": "Managed staffing and onboarding for administrative, customer service, sales, and warehousing personnel.",
+                "highlights": []
+            }
+        ],
+        "education": [
+            {
+                "institution": "Keller Graduate School of Management",
+                "degree": "MBA Degree",
+                "field": null,
+                "startDate": null,
+                "endDate": "2008",
+                "gpa": null
+            },
+            {
+                "institution": "Loyola University",
+                "degree": "MS Degree",
+                "field": "Organization Development",
+                "startDate": null,
+                "endDate": "2004",
+                "gpa": null
+            },
+            {
+                "institution": "Loyola University",
+                "degree": "BA Degree",
+                "field": "Industrial Relations",
+                "startDate": null,
+                "endDate": "1998",
+                "gpa": null
+            }
+        ],
+        "skills": [
+            "HR Best Practices",
+            "Employee Relations & Diversity",
+            "Talent Acquisition",
+            "Staff Coaching & Mentoring",
+            "Organizational Development",
+            "Employee Performance Improvement",
+            "Leadership Development",
+            "HR Policy, Process & Systems Design",
+            "Change Management",
+            "Workforce Planning & Development",
+            "M&A Strategies & Due Diligence",
+            "Organization-Wide Consensus Building"
+        ],
+        "languages": [],
+        "certifications": [
+            "MBA",
+            "SPHR",
+            "SHRM-SCP",
+            "Senior Professional in Human Resources (SPHR)",
+            "Society of Human Resources Management Senior Certified Professional (SHRM-SCP)"
+        ],
+        "category": "Human Resources",
+        "id": 8
+    },
+    {
+        "user_id": 1,
+        "name": "Susan Williams",
+        "email": "susan.williams@coolfreecv.com",
+        "phone": "+1 (970) 333-3833",
+        "location": {
+            "city": "New York",
+            "countryCode": null,
+            "region": "NY"
+        },
+        "summary": "Store Manager equipped with extensive experience in automotive sales management. Employs excellent leadership skills and multi-tasking strengths. Demonstrated ability to improve store operations, increase top line sales, and reduce costs. Demonstrated ability to improve store operations, increase top line sales, and reduce costs.",
+        "work": [
+            {
+                "company": "LUXURY CAR CENTER",
+                "position": "Store Manager",
+                "startDate": "09/2015",
+                "endDate": "05/2019",
+                "summary": null,
+                "highlights": [
+                    "Motivate and coach employees to meet service, sales, and repair goals.",
+                    "Create and modify employee schedules with service levels in mind.",
+                    "Recruit and hire top mechanics, service advisors, and sales people.",
+                    "Maintain detailed logs and reports of services performed, profit, and budget information.",
+                    "Help out in sales and repair areas as needed and maintain comprehensive current knowledge of operations."
+                ]
+            },
+            {
+                "company": "JAPAN CAR CENTER",
+                "position": "Store Manager",
+                "startDate": "09/2014",
+                "endDate": "09/2015",
+                "summary": null,
+                "highlights": [
+                    "Answered customer questions and resolved service issues in a timely manner.",
+                    "Diagnosed customer issues by asking probing questions and write up repair orders.",
+                    "Ordered supplies and kept inventory at optimal levels.",
+                    "Coordinated equipment repairs and maintenance."
+                ]
+            }
+        ],
+        "education": [
+            {
+                "institution": "Technical Institute, NY",
+                "degree": "Bachelor of Science",
+                "field": "Automotive Technology",
+                "startDate": null,
+                "endDate": "2019",
+                "gpa": null
+            },
+            {
+                "institution": "Technical Institute, NY",
+                "degree": "Bachelor of Science",
+                "field": "Automotive Technology",
+                "startDate": null,
+                "endDate": "2014",
+                "gpa": null
+            }
+        ],
+        "skills": [
+            "Results-oriented",
+            "Revenue generation",
+            "Business development",
+            "Effective marketing",
+            "Organisational capacity",
+            "Operability and commitment",
+            "Ability to motivate staff and maintain good relations",
+            "Resistance to stress",
+            "Good manners"
+        ],
+        "languages": [],
+        "certifications": [],
+        "category": "Operations & Logistics",
+        "id": 9
+    },
+    {
+        "user_id": 1,
+        "name": "Melanie Robinson",
+        "email": "MELANIE.ROBINSON@MAIL.COM",
+        "phone": "+1 (970) 333-3833",
+        "location": {
+            "city": "MADISON",
+            "countryCode": "US",
+            "region": "SD"
+        },
+        "summary": "Qualified Customer Service Representative with over 4 years in fast-paced customer service and call center environments. As a customer service representative I am personable good at building loyal relationships, solving problems, and Increasing Sales. I also excel in listening to customer needs, articulating product benefits and creating solutions that provide value to the customer.",
+        "work": [
+            {
+                "company": "BATS Global Markets Inc.",
+                "position": "Customer Service Representative",
+                "startDate": "04/2017",
+                "endDate": "09/2018",
+                "summary": null,
+                "highlights": [
+                    "Contact customer to follow up on purchases, suggest new merchandise and inform on promotions and upcoming events.",
+                    "Promote business as superior provider committed to efficiency and accuracy when engaging with customers.",
+                    "Answer product questions with up-to-date knowledge of sales and store promotions.",
+                    "Provide timely and effective replacement of damaged or missing products."
+                ]
+            },
+            {
+                "company": "Foodspotting Inc.",
+                "position": "Customer Service Representative",
+                "startDate": "04/2015",
+                "endDate": "09/2016",
+                "summary": null,
+                "highlights": [
+                    "Assisted customers with food selection, inquiries and order customization requests.",
+                    "Answered average of 100 calls per day, addressing customer inquiries, solving problems and providing new product information.",
+                    "Recommended, selected and helped locate and obtain out-of-stock product based on customer requests.",
+                    "Contacted customer to follow up on purchases, suggest new merchandise and inform on promotions and upcoming events."
+                ]
+            }
+        ],
+        "education": [
+            {
+                "institution": "Oregon State University",
+                "degree": "Bachelor of Arts",
+                "field": "Marketing",
+                "startDate": null,
+                "endDate": "2014",
+                "gpa": null
+            }
+        ],
+        "skills": [
+            "International sales support",
+            "Strategic sales knowledge",
+            "Exceptional communication skills",
+            "Stock records management",
+            "Quality assurance and control"
+        ],
+        "languages": [],
+        "certifications": [],
+        "category": "Customer Support",
+        "id": 10
+    }
+]

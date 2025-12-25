@@ -96,7 +96,7 @@ class JobRecommender:
             for job in jobs:
                 skills_match = self.calculate_skills_match(
                     cv_data.get('skills', []),
-                    job.get('skills', [])
+                    job.get('skills_required', [])
                 )
                 cv_years = cv_data.get("total_experience", 0)
                 exp_score = self.calculate_experience_match(

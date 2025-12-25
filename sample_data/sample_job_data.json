@@ -1,0 +1,355 @@
+[
+  {
+    "title": "Junior AI Engineer",
+    "description": "We are looking for a passionate Junior AI Engineer who is eager to start their career in Artificial Intelligence. You will work alongside senior engineers to develop AI solutions and enhance existing models, while learning about the latest techniques in machine learning and deep learning.",
+    "experience_years": [0, 1],
+    "education_required": {
+      "degree_required": "Bachelor's Degree",
+      "degree_restriction": "Computer Science, Data Science, or related field",
+      "required_field": "Machine Learning, AI"
+    },
+    "expires_at": "2025-12-24T17:23:03.216Z",
+    "salary": 62000,
+    "location": "Chicago, IL",
+    "skills_required": [
+      "Python",
+      "Machine Learning",
+      "NumPy",
+      "Pandas",
+      "SciKit-Learn"
+    ],
+    "company_name": "AI Future Labs",
+    "company_industry": "Data Science & AI",
+    "company_size": "100-300 employees"
+  },
+  {
+    "title": "Software Engineer Intern",
+    "description": "We are looking for a passionate Software Engineer Intern to work with our development team, helping to build and enhance our applications using modern technologies.",
+    "experience_years": [0, 1],
+    "education_required": {
+      "degree_required": "Bachelor's Degree",
+      "degree_restriction": "Computer Science or related field",
+      "required_field": "Software Engineering"
+    },
+    "expires_at": "2025-12-31T17:23:03.216Z",
+    "salary": 50000,
+    "location": "San Francisco, CA",
+    "skills_required": [
+      "Java",
+      "C++",
+      "Data Structures",
+      "Problem Solving"
+    ],
+    "company_name": "Tech Innovations",
+    "company_industry": "Software Engineering",
+    "company_size": "500-1000 employees"
+  },
+  {
+    "title": "Junior Data Scientist",
+    "description": "We are seeking a Junior Data Scientist who is eager to learn and apply machine learning techniques to solve real-world problems. You will work alongside senior data scientists to create data-driven solutions.",
+    "experience_years": [0, 1],
+    "education_required": {
+      "degree_required": "Bachelor's Degree",
+      "degree_restriction": "Data Science, Computer Science, or related field",
+      "required_field": "Data Science, Machine Learning"
+    },
+    "expires_at": "2025-12-31T17:23:03.216Z",
+    "salary": 65000,
+    "location": "New York, NY",
+    "skills_required": [
+      "Python",
+      "R",
+      "Machine Learning",
+      "SQL"
+    ],
+    "company_name": "Data Insights",
+    "company_industry": "Data Science & AI",
+    "company_size": "200-500 employees"
+  },
+  {
+    "title": "Product Manager",
+    "description": "We are looking for a dynamic Product Manager to oversee the development and execution of our product strategy. You will work with cross-functional teams to launch innovative products.",
+    "experience_years": [1, 3],
+    "education_required": {
+      "degree_required": "Bachelor's Degree",
+      "degree_restriction": "Business, Marketing, or related field",
+      "required_field": "Product Management"
+    },
+    "expires_at": "2025-11-15T17:23:03.216Z",
+    "salary": 85000,
+    "location": "Los Angeles, CA",
+    "skills_required": [
+      "Product Roadmaps",
+      "Agile",
+      "Market Research",
+      "Cross-functional Collaboration"
+    ],
+    "company_name": "Innovative Products Inc.",
+    "company_industry": "Product Management",
+    "company_size": "500-1000 employees"
+  },
+  {
+    "title": "UI/UX Designer",
+    "description": "We are seeking a creative UI/UX Designer to help create engaging and user-friendly digital experiences. You will work closely with our development and product teams to design intuitive user interfaces.",
+    "experience_years": [0, 2],
+    "education_required": {
+      "degree_required": "Bachelor's Degree",
+      "degree_restriction": "Design, Human-Computer Interaction, or related field",
+      "required_field": "UI/UX Design"
+    },
+    "expires_at": "2025-09-20T17:23:03.216Z",
+    "salary": 75000,
+    "location": "Austin, TX",
+    "skills_required": [
+      "Adobe XD",
+      "Figma",
+      "Wireframing",
+      "Prototyping"
+    ],
+    "company_name": "Creative Studios",
+    "company_industry": "Design & UX",
+    "company_size": "50-200 employees"
+  },
+  {
+    "title": "Marketing Specialist",
+    "description": "We are looking for a Marketing Specialist to develop and execute marketing strategies that increase brand awareness and drive product engagement.",
+    "experience_years": [1, 3],
+    "education_required": {
+      "degree_required": "Bachelor's Degree",
+      "degree_restriction": "Marketing, Communications, or related field",
+      "required_field": "Marketing"
+    },
+    "expires_at": "2025-12-15T17:23:03.216Z",
+    "salary": 60000,
+    "location": "Miami, FL",
+    "skills_required": [
+      "Digital Marketing",
+      "Social Media",
+      "SEO",
+      "Content Creation"
+    ],
+    "company_name": "BrandBoosters",
+    "company_industry": "Marketing & Sales",
+    "company_size": "100-300 employees"
+  },
+  {
+    "title": "Finance Analyst",
+    "description": "We are looking for a detail-oriented Finance Analyst to help analyze financial data and provide insights to drive business decisions.",
+    "experience_years": [1, 3],
+    "education_required": {
+      "degree_required": "Bachelor's Degree",
+      "degree_restriction": "Finance, Accounting, or related field",
+      "required_field": "Finance"
+    },
+    "expires_at": "2025-08-25T17:23:03.216Z",
+    "salary": 70000,
+    "location": "Chicago, IL",
+    "skills_required": [
+      "Excel",
+      "Financial Modeling",
+      "Data Analysis",
+      "Forecasting"
+    ],
+    "company_name": "Finance Solutions",
+    "company_industry": "Finance & Accounting",
+    "company_size": "200-500 employees"
+  },
+  {
+    "title": "HR Coordinator",
+    "description": "We are seeking an HR Coordinator to support our human resources team in recruitment, onboarding, and employee relations.",
+    "experience_years": [0, 2],
+    "education_required": {
+      "degree_required": "Bachelor's Degree",
+      "degree_restriction": "Human Resources, Business Administration, or related field",
+      "required_field": "Human Resources"
+    },
+    "expires_at": "2025-07-30T17:23:03.216Z",
+    "salary": 55000,
+    "location": "Dallas, TX",
+    "skills_required": [
+      "Recruiting",
+      "Employee Relations",
+      "HR Software",
+      "Onboarding"
+    ],
+    "company_name": "PeopleFirst HR",
+    "company_industry": "Human Resources",
+    "company_size": "50-100 employees"
+  },
+  {
+    "title": "Customer Support Representative",
+    "description": "We are looking for a Customer Support Representative to provide excellent service to our clients via phone, email, and chat.",
+    "experience_years": [0, 2],
+    "education_required": {
+      "degree_required": "High School Diploma",
+      "degree_restriction": "Any",
+      "required_field": "Customer Service"
+    },
+    "expires_at": "2025-06-10T17:23:03.216Z",
+    "salary": 40000,
+    "location": "Phoenix, AZ",
+    "skills_required": [
+      "Communication",
+      "Problem Solving",
+      "CRM Software",
+      "Customer Service"
+    ],
+    "company_name": "SupportPlus",
+    "company_industry": "Customer Support",
+    "company_size": "200-500 employees"
+  },
+  {
+    "title": "Operations Manager",
+    "description": "We are looking for an Operations Manager to oversee and optimize daily business operations, ensuring maximum efficiency and quality.",
+    "experience_years": [3, 5],
+    "education_required": {
+      "degree_required": "Bachelor's Degree",
+      "degree_restriction": "Business Administration, Operations Management, or related field",
+      "required_field": "Operations"
+    },
+    "expires_at": "2025-05-01T17:23:03.216Z",
+    "salary": 90000,
+    "location": "Seattle, WA",
+    "skills_required": [
+      "Project Management",
+      "Supply Chain Management",
+      "Process Optimization",
+      "Team Leadership"
+    ],
+    "company_name": "Efficient Enterprises",
+    "company_industry": "Operations & Logistics",
+    "company_size": "300-500 employees"
+  },
+  {
+    "title": "Healthcare Administrator",
+    "description": "We are seeking a Healthcare Administrator to manage the daily operations of a healthcare facility, ensuring compliance with healthcare regulations.",
+    "experience_years": [2, 4],
+    "education_required": {
+      "degree_required": "Bachelor's Degree",
+      "degree_restriction": "Healthcare Administration, Business, or related field",
+      "required_field": "Healthcare Administration"
+    },
+    "expires_at": "2025-09-01T17:23:03.216Z",
+    "salary": 75000,
+    "location": "Boston, MA",
+    "skills_required": [
+      "Healthcare Regulations",
+      "Team Management",
+      "Budgeting",
+      "Compliance"
+    ],
+    "company_name": "HealthCare Solutions",
+    "company_industry": "Healthcare & Medical",
+    "company_size": "50-200 employees"
+  },
+  {
+    "title": "Medical Research Assistant",
+    "description": "We are looking for a Medical Research Assistant to help with clinical studies and research projects, assisting senior researchers with data collection and analysis.",
+    "experience_years": [0, 2],
+    "education_required": {
+      "degree_required": "Bachelor's Degree",
+      "degree_restriction": "Biology, Health Sciences, or related field",
+      "required_field": "Medical Research"
+    },
+    "expires_at": "2025-04-10T17:23:03.216Z",
+    "salary": 48000,
+    "location": "Houston, TX",
+    "skills_required": [
+      "Research",
+      "Clinical Trials",
+      "Data Analysis",
+      "Medical Software"
+    ],
+    "company_name": "MedTech Labs",
+    "company_industry": "Healthcare & Medical",
+    "company_size": "200-500 employees"
+  },
+  {
+    "title": "Educational Consultant",
+    "description": "We are looking for an Educational Consultant to provide advice and strategies to schools on improving their curricula and teaching methods.",
+    "experience_years": [1, 3],
+    "education_required": {
+      "degree_required": "Bachelor's Degree",
+      "degree_restriction": "Education, Curriculum Development, or related field",
+      "required_field": "Education & Training"
+    },
+    "expires_at": "2025-03-05T17:23:03.216Z",
+    "salary": 60000,
+    "location": "Chicago, IL",
+    "skills_required": [
+      "Curriculum Design",
+      "Education Strategies",
+      "Classroom Management",
+      "Teaching"
+    ],
+    "company_name": "EduTech Solutions",
+    "company_industry": "Education & Training",
+    "company_size": "100-300 employees"
+  },
+  {
+    "title": "Legal Assistant",
+    "description": "We are seeking a Legal Assistant to help our legal team with documentation, client communication, and administrative tasks.",
+    "experience_years": [0, 2],
+    "education_required": {
+      "degree_required": "Associate's Degree",
+      "degree_restriction": "Law, Paralegal Studies, or related field",
+      "required_field": "Legal"
+    },
+    "expires_at": "2025-01-20T17:23:03.216Z",
+    "salary": 48000,
+    "location": "Washington, D.C.",
+    "skills_required": [
+      "Legal Research",
+      "Document Drafting",
+      "Client Communication",
+      "Microsoft Office"
+    ],
+    "company_name": "Law Firm Co.",
+    "company_industry": "Legal & Compliance",
+    "company_size": "50-200 employees"
+  },
+  {
+    "title": "R&D Engineer",
+    "description": "We are seeking an R&D Engineer to work on the development of new products and technologies, contributing to both product design and testing.",
+    "experience_years": [1, 3],
+    "education_required": {
+      "degree_required": "Bachelor's Degree",
+      "degree_restriction": "Engineering, Physics, or related field",
+      "required_field": "Research & Development"
+    },
+    "expires_at": "2025-11-10T17:23:03.216Z",
+    "salary": 80000,
+    "location": "San Jose, CA",
+    "skills_required": [
+      "Prototyping",
+      "Product Testing",
+      "Engineering Design",
+      "CAD Software"
+    ],
+    "company_name": "Tech R&D Innovations",
+    "company_industry": "Research & Development",
+    "company_size": "100-500 employees"
+  },
+  {
+    "title": "Project Manager",
+    "description": "We are looking for a Project Manager to oversee the planning and execution of key projects across multiple departments.",
+    "experience_years": [2, 4],
+    "education_required": {
+      "degree_required": "Bachelor's Degree",
+      "degree_restriction": "Business Administration, Project Management, or related field",
+      "required_field": "Project Management"
+    },
+    "expires_at": "2025-02-01T17:23:03.216Z",
+    "salary": 95000,
+    "location": "Atlanta, GA",
+    "skills_required": [
+      "Project Planning",
+      "Risk Management",
+      "Team Leadership",
+      "Stakeholder Communication"
+    ],
+    "company_name": "Innovative Projects Inc.",
+    "company_industry": "Other",
+    "company_size": "200-500 employees"
+  }
+]

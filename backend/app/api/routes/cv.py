@@ -1,3 +1,4 @@
+import time
 from fastapi import APIRouter, Depends, FastAPI, UploadFile, File, HTTPException
 from fastapi.concurrency import run_in_threadpool
 from app.core.parser import parser
@@ -10,6 +11,7 @@ from app.dependencies import get_current_active_user
 from app.models.users import User
 from app.database.db import get_db
 from app.core.vector_store import vector_store
+from app.utils.logging import create_log
 
 router = APIRouter(
     prefix="/cvs",
@@ -17,7 +19,9 @@ router = APIRouter(
 )  
 
 @router.post("/upload")
-async def parse_pdf(file: UploadFile = File(...), current_user:User= Depends(get_current_active_user), db: Session = Depends(get_db)):
+async def upload_pdf(file: UploadFile = File(...), current_user:User= Depends(get_current_active_user), db: Session = Depends(get_db)):
+    """Upload the cv in pdf form and parse into a json object"""
+    start_time = time.perf_counter()
     if file.content_type != "application/pdf":
         raise HTTPException(status_code=400, detail="Only PDF files allowed")
 
@@ -58,11 +62,28 @@ async def parse_pdf(file: UploadFile = File(...), current_user:User= Depends(get
         db.add(cv_embedding)
         db.commit()
         db.refresh(cv_embedding)
-
+        
         return {"extracted_data": extracted}
 
     except Exception as e:
+        create_log(
+            db=db,
+            log_name="cv_upload_failed",
+            log_type="ERROR",
+            function_name="upload_pdf",
+            description=str(e)
+        )
         raise HTTPException(status_code=500, detail=str(e))
+    finally:
+        
+        total_time = time.perf_counter() - start_time
+        create_log(
+            db=db,
+            log_name="cv_upload",
+            log_type="PERF",
+            function_name="upload_pdf",
+            time_taken=total_time
+        )
 
 
 @router.get("/{cv_id}", response_model=CVResponse)

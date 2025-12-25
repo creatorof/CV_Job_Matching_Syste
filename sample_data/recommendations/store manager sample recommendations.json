@@ -1,0 +1,48 @@
+[
+    {
+        "job": {
+            "title": "Operations Manager",
+            "description": "We are looking for an Operations Manager to oversee and optimize daily business operations, ensuring maximum efficiency and quality.",
+            "experience_years": [
+                3,
+                5
+            ],
+            "education_required": {
+                "degree_required": "Bachelor's Degree",
+                "degree_restriction": "Business Administration, Operations Management, or related field",
+                "required_field": "Operations"
+            },
+            "expires_at": "2025-05-01T17:23:03.216000",
+            "salary": 90000.0,
+            "location": "Seattle, WA",
+            "skills_required": [
+                "Project Management",
+                "Supply Chain Management",
+                "Process Optimization",
+                "Team Leadership"
+            ],
+            "company_name": "Efficient Enterprises",
+            "company_industry": "Operations & Logistics",
+            "company_size": "300-500 employees",
+            "id": 11,
+            "created_at": "2025-12-25T15:42:46.732918",
+            "is_expired": false,
+            "updated_at": "2025-12-25T15:42:46.732918"
+        },
+        "match_score": 0.014,
+        "matching_factors": {
+            "skills_match": 0.0,
+            "experience_match": 0.0,
+            "education_match": 0.145,
+            "semantic_similarity": 0.0
+        },
+        "matched_skills": [],
+        "missing_skills": [
+            "project management",
+            "supply chain management",
+            "process optimization",
+            "team leadership"
+        ],
+        "explanation": "Potential match but may need development in 4 areas"
+    }
+]

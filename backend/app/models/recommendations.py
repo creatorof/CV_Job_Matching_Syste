@@ -16,9 +16,9 @@ class JobRecommendation(Base):
 
     id = Column(Integer, primary_key=True, index=True)
 
-    # user_id = Column(Integer, ForeignKey("users.id"), nullable=False, index=True)
+    user_id = Column(Integer, ForeignKey("users.id"), nullable=False, index=True)
     job_id = Column(Integer, ForeignKey("jobs.id"), nullable=False, index=True)
-    # cv_id = Column(Integer, ForeignKey("cvs.id"), nullable=False, index=True)
+    cv_id = Column(Integer, ForeignKey("cvs.id"), nullable=False, index=True)
 
     match_score = Column(Float, nullable=False)
 
@@ -30,9 +30,9 @@ class JobRecommendation(Base):
 
     created_at = Column(DateTime, default=func.now())
 
-    # user = relationship("User")
+    user = relationship("User")
     job = relationship("Job")
-    # cv = relationship("CV")
+    cv = relationship("CV")
 
     def __repr__(self):
         return f"<JobRecommendation job_id={self.job_id} score={self.match_score}>"

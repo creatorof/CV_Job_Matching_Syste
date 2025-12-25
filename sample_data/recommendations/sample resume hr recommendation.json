@@ -1,0 +1,48 @@
+[
+    {
+        "job": {
+            "title": "HR Coordinator",
+            "description": "We are seeking an HR Coordinator to support our human resources team in recruitment, onboarding, and employee relations.",
+            "experience_years": [
+                0,
+                2
+            ],
+            "education_required": {
+                "degree_required": "Bachelor's Degree",
+                "degree_restriction": "Human Resources, Business Administration, or related field",
+                "required_field": "Human Resources"
+            },
+            "expires_at": "2025-07-30T17:23:03.216000",
+            "salary": 55000.0,
+            "location": "Dallas, TX",
+            "skills_required": [
+                "Recruiting",
+                "Employee Relations",
+                "HR Software",
+                "Onboarding"
+            ],
+            "company_name": "PeopleFirst HR",
+            "company_industry": "Human Resources",
+            "company_size": "50-100 employees",
+            "id": 9,
+            "created_at": "2025-12-25T15:42:46.732918",
+            "is_expired": false,
+            "updated_at": "2025-12-25T15:42:46.732918"
+        },
+        "match_score": 0.19,
+        "matching_factors": {
+            "skills_match": 0.0,
+            "experience_match": 1.0,
+            "education_match": 0.4,
+            "semantic_similarity": 0.0
+        },
+        "matched_skills": [],
+        "missing_skills": [
+            "recruiting",
+            "employee relations",
+            "hr software",
+            "onboarding"
+        ],
+        "explanation": "Potential match but may need development in 4 areas"
+    }
+]
